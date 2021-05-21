@@ -18,3 +18,7 @@ Also, see [here](https://github.com/microsoft/onnxruntime/tree/master/js/web) fo
   ```bash
   yarn start
   ```
+
+## About the model used
+
+- [Tiny YOLOv3 - onnx-model-zoo](https://github.com/onnx/models/tree/master/vision/object_detection_segmentation/tiny-yolov3)

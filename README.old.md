@@ -1,3 +1,0 @@
-# ONNX Web Inference DEMO
-
-
