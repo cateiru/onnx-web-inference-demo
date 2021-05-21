@@ -35,6 +35,7 @@ export const Header: React.FC<{pageName: string}> = ({pageName}) => {
             outline="none"
             backgroundColor={colors.headerBackGround}
             color={colors.text}
+            _hover={{backgroundColor: colors.headerBackGround}}
           />
           <Drawer placement="left" onClose={onClose} isOpen={isOpen}>
             <DrawerOverlay />
